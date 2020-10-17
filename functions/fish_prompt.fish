@@ -23,7 +23,7 @@ function fish_prompt
             set pcolor $red
         end
 
-    	set right_prompt $right_prompt '('(git_branch_name)$stashed')'
+    	set right_prompt $right_prompt (set_color green --bold)'('(git_branch_name)$stashed')'
   	end
 
     
