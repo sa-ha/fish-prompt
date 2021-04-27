@@ -4,6 +4,6 @@ Simple fish prompt for me
 
 ## Install
 With fisherman  
-`fisher add sa-ha/fish-prompt`
+`fisher installd sa-ha/fish-prompt`
 
 
